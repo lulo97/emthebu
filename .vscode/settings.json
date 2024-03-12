@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.port": 0
+}
